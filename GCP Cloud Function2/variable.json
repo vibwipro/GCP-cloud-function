@@ -1,0 +1,12 @@
+{
+        "sheets_to_extract": ["A1", "Datamap"],
+        "country_code": [{"UK" :  "UK"}, {"Canada": "CA"}, {"Netherlands": "NL"}],
+        "country" : "Netherlands",
+        "process_file" : "uk_data/IKEA_Netherlands_2024-01-23.xlsx",
+        "strategy" : "exclude",
+        "bucket_name" : "try-test-dev",
+        "dev_project_name" : "ingka-business-metrics-dev",
+        "question_mapping_file" : "uk_data/question_mapping.xlsx",
+        "conjoint_analysis_intermediate_file" : "uk_data/Conjoint_analysis_intermediate_1.xlsx",
+        "location_file" : "uk_data/location_mapping.xlsx"
+}
