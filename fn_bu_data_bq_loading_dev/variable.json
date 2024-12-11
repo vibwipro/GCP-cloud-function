@@ -1,0 +1,5 @@
+{
+        "table-name": "BUData",
+        "bu-api-url": "https://AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/xxxxxx",
+        "sql" : " ( `country` string, `description` string, `status` string, `city` string, `business_unit_number` string, `total_business_unit_area` FLOAT64, `total_car_park_and_roads_area` FLOAT64, `total_store_footprint` FLOAT64, `total_parking_spaces` FLOAT64, `external_merchandise_pick_up` string, `type_of_shopping_centre_connection` string, `total_store_cubic_volume` string, `business_unit_name` string, `asset_type` string, `store_opening_date_actual` string, `total_land_size` FLOAT64, `total_store_gross_area` FLOAT64, `restaurant_cafe` string )"
+}
