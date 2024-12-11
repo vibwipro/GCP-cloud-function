@@ -1,0 +1,8 @@
+functions-framework==3.*
+requests
+pandas
+google-cloud-bigquery==3.2.0
+google-cloud-secret-manager==2.11.0
+google-cloud-storage==2.14.0
+Python-IO
+openpyxl==3.1.2
